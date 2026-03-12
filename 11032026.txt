@@ -1,0 +1,47 @@
+Miguel Tavares de Morais - 20251180330
+1.
+1.1 - Que tipo de software o Git é? - Controle de Versões.
+1.2. Qual é uma das funções compartilhadas entre Git e GitHub? - Um terminal de interação com seu repositório.
+1.3. Qual é o melhor terminal para ser utilizado em qualquer sistema operacional? - Bash.
+
+2.
+2.1. Qual é o comando para voltar um nível atrás? - cd..
+2.2. Como eu posso criar uma pasta chamada dir no terminal? - mkdir dir
+2.3. Qual o significado de ~ no terminal? - Caminho Padrão.
+2.4. Qual é o comando para mudar diretórios? - cd
+2.5. Como diretórios são removidos no terminal? - rm -rf dir
+
+3.
+3.1. O que é o HEAD? - Commit atualmente selecionado.
+3.2. VERDADEIRO OU FALSO: Você pode fazer commit assim que fazer alterações - FALSO.
+3.3. O que o comando "git add ." faz? - Adicionam todos os arquivos à área de staging.
+3.4. VERDADEIRO OU FALSO: git rm -f remove o arquivo do diretório funcional - VERDADEIRO.
+3.5. Qual é o comando usado para criar um novo repositório? - git init
+
+4.
+4.1. Como adicionar e verificar uma branch no Git? - git checkout -b
+4.2. VERDADEIRO OU FALSO: Unir branches unifica todos os commits em uma timeline única - FALSO.
+4.3. O que é uma branch? - Uma série de commits que não interferem com outras branches.
+4.4. VERDADEIRO OU FALSO: Você pode adicionar múltiplos pointers HEAD ao ter mais de uma branch - FALSO.
+4.5. Selecione uma resposta que NÃO possui um benefício de utilizar branches - Aumenta a complexidade do projeto.
+
+5.
+5.1. VERDADEIRO OU FALSO: Forking é o mesmo que Pulling - FALSO.
+5.2. O que é forking? - Clonar um repositório GitHub e adicioná-lo aos seus próprios.
+5.3. Qual é a função principal do GitHub? - Colaboração entre outros devs.
+5.4. O que é o GitHub? - Uma plataforma/biblioteca de gits.
+5.5. VERDADEIRO OU FALSO: Repositórios do GitHub podem ser privados - VERDADEIRO.
+
+6.
+6.1. Qual é o comando para adicionar uma origem remota? - git remote add origin
+6.2. VERDADEIRO OU FALSO: git remove -v mostra todas as suas origens remotas - VERDADEIRO.
+6.3. O que é uma origem remota? - Um link para seu repositório remoto.
+6.4. Quantas branches você pode dar push em um repositório remoto por vez? - Uma.
+6.5. Como você interage com um repositório GitHub? - Por meio de um ciclo Push/Pull.
+
+7. 
+7.1. VERDADEIRO OU FALSO: É necessário uma conta para utilizar o SourceTree - VERDADEIRO.
+7.2. Que tipo de software é o SourceTree? - Uma interface gráfica de usuário (GUI).
+7.3. Selecione uma resposta que NÃO possui um benefício de utilizar SourceTree - Melhor Performance
+7.4. VERDADEIRO OU FALSO: Adicionar uma origem remota por meio do SourceTree é complicado - VERDADEIRO.
+7.5. O que "Git-flow" faz? - Cria um template para ser utilizado em seus repositórios.
